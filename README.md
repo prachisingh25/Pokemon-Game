@@ -117,9 +117,5 @@ The game is built using React for the frontend and Express with SQLite for the b
 
 ## UI
 
-Below are some screenshots of the game interface. Uncomment and add your own images as required.
+Below is a simple simulation of the game
 
-1. **Pokémon Selection Screen**
-   - This screen allows users to choose a Pokémon to play with.
-   ```html
-   <!-- Screenshot of Pokémon Selection screen here -->
