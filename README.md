@@ -34,7 +34,7 @@ The game is built using React for the frontend and Express with SQLite for the b
       ```
 
 3. **Setup environment variables**:
-    - Create a `.env` file in the `frontend` and `backend` directories and add the required environment variables following the .env.example file
+    - Create a `.env` file in the `frontend` and `backend` directories and add the required environment variables.
     - Add the following in the `.env` file in the `frontend` directory:
       ```env
       REACT_APP_API_BASE_URL=http://localhost:3001
