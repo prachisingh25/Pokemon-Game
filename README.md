@@ -17,7 +17,7 @@ The game is built using React for the frontend and Express with SQLite for the b
 ### Installation
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/prachisingh25/Pokemon-Game.git
     ```
 
 2. **Install the dependencies** for both the frontend and backend:
@@ -34,7 +34,7 @@ The game is built using React for the frontend and Express with SQLite for the b
       ```
 
 3. **Setup environment variables**:
-    - Create a `.env` file in the `frontend` and `backend` directories (if not already present).
+    - Create a `.env` file in the `frontend` and `backend` directories and add the required environment variables following the .env.example file
     - Add the following in the `.env` file in the `frontend` directory:
       ```env
       REACT_APP_API_BASE_URL=http://localhost:3001
@@ -115,7 +115,13 @@ The game is built using React for the frontend and Express with SQLite for the b
 
 ---
 
+
 ## UI
 
-Below is a simple simulation of the game
+Below is a simple simulation of the game.
+
+https://github.com/user-attachments/assets/8f57e062-e753-45f3-a2fa-84a56a5b2c1b
+
+
+
 
